@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\Grafencio\Grafencio\bin\Debug\Grafencio.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Grafencio\Grafencio\obj\Debug\Grafencio.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Grafencio\Grafencio\bin\Debug\Grafencio.exe
+c:\users\user\documents\visual studio 2015\Projects\Grafencio\Grafencio\bin\Debug\Grafencio.pdb
+c:\users\user\documents\visual studio 2015\Projects\Grafencio\Grafencio\obj\Debug\Grafencio.exe
+c:\users\user\documents\visual studio 2015\Projects\Grafencio\Grafencio\obj\Debug\Grafencio.pdb
+C:\Users\g40\Documents\Visual Studio 2015\Projects\Grafencio\Grafencio\bin\Debug\Grafencio.exe.config
+C:\Users\g40\Documents\Visual Studio 2015\Projects\Grafencio\Grafencio\bin\Debug\Grafencio.exe
+C:\Users\g40\Documents\Visual Studio 2015\Projects\Grafencio\Grafencio\bin\Debug\Grafencio.pdb
+C:\Users\g40\Documents\Visual Studio 2015\Projects\Grafencio\Grafencio\obj\Debug\Grafencio.exe
+C:\Users\g40\Documents\Visual Studio 2015\Projects\Grafencio\Grafencio\obj\Debug\Grafencio.pdb
+C:\Users\Erick\Documents\C#\Grafencio\Grafencio\bin\Debug\Grafencio.exe.config
+C:\Users\Erick\Documents\C#\Grafencio\Grafencio\bin\Debug\Grafencio.exe
+C:\Users\Erick\Documents\C#\Grafencio\Grafencio\bin\Debug\Grafencio.pdb
+C:\Users\Erick\Documents\C#\Grafencio\Grafencio\obj\Debug\Grafencio.csprojAssemblyReference.cache
+C:\Users\Erick\Documents\C#\Grafencio\Grafencio\obj\Debug\Grafencio.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\C#\Grafencio\Grafencio\obj\Debug\Grafencio.exe
+C:\Users\Erick\Documents\C#\Grafencio\Grafencio\obj\Debug\Grafencio.pdb
