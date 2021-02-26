@@ -5,5 +5,3 @@ a lo que se pidió en clase.
 Profesor: Ugalde Martín.
 Siéntete libre de tomar el código si lo necesitas, 
 si un día nos conocemos págamelo con una cerveza. :)
-
-<h1>Holi</h1>
